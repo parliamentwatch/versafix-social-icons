@@ -5,6 +5,7 @@ import pngquant from 'pngquant-bin';
 
 var iconStyles = {
   white: { color: 'white', sampleBg: 'gray' },
+  purple: {color: "#edecf3", sampleBg: 'gray' },
   coloured: { },
   black: { color: 'black' },
 
