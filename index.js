@@ -42,6 +42,11 @@ var iconsDef = {
   'tg':   '#2da5e1',
   'tt':   '#000000',
   'tc':   '#9146ff',
+  'mtd':  '#6364ff',
+  'threads': '#000000',
+  'bsky': '#1185fe',
+  'mail': '#000000',
+  'rss':  '#000000'
 };
 
 var iconsSelection = ['fb', 'tw', 'in', 'inst', 'wa', 'tg'];
